@@ -1,0 +1,15 @@
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/Assign4DesingPatterns
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/Assign4DesingPatterns.deps.json
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/Assign4DesingPatterns.runtimeconfig.json
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/Assign4DesingPatterns.dll
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/ref/Assign4DesingPatterns.dll
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/bin/Debug/net6.0/Assign4DesingPatterns.pdb
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.csproj.AssemblyReference.cache
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.AssemblyInfoInputs.cache
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.AssemblyInfo.cs
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.csproj.CoreCompileInputs.cache
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.dll
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/ref/Assign4DesingPatterns.dll
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.pdb
+/home/landroide/Desktop/dotnet/Assign4DesingPatterns/obj/Debug/net6.0/Assign4DesingPatterns.genruntimeconfig.cache

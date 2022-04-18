@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xA6wOLihWNXHBaulmXDeYSq3oUevCHy3+lXT5fX2/wlgzWyMbJS4YgUW2N9wA0msCoI4bCNQsAE3Urx7z5EqkQ==",
+  "success": true,
+  "projectFilePath": "/home/landroide/Desktop/dotnet/Assign4DesingPatterns/Assign4DesingPatterns.csproj",
+  "expectedPackageFiles": [
+    "/home/landroide/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
